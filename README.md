@@ -1,18 +1,28 @@
-# Week 1: Getting Started with Machine Learning
+Getting Started with Machine Learning
 
-Hey there! 👋 This repository contains my work for the first week of our Machine Learning course.
+# Machine Learning Coursework
+Hey there! 👋
+This repository contains my work for the Machine Learning course (STQD6024). The course introduces the core concepts, techniques, and algorithms of machine learning.
 
-**What's inside:**
+**What's in here:**
 
-* **`W1_CHAPTER1_ML - Colab.ipynb`**: This is the Google Colab notebook where I started exploring the basics of Machine Learning. We touched on different ways machines can learn (like figuring out numbers vs. sorting things into groups).
-* **Data Exploration Fun!** I also played around with some real-world data – think looking at wages and trying to understand what might affect them. You'll see how we used code to peek at the data and even make some cool charts.
-* **First Steps in Code:** This week was all about getting our hands dirty with Python and some helpful tools for working with data.
+This repository will contain my work as I explore topics like:
 
-**What I learned this week:**
+* **Foundational Concepts:** The basics of machine learning, including different types of learning (like regression and classification) and how we measure model accuracy. 
+* **Regression Techniques:** Methods for predicting numerical values, starting with simple linear regression and moving to more complex approaches.
+* **Classification Techniques:** Methods for predicting categories, such as logistic regression and K-Nearest Neighbors (KNN).
+* **Model Evaluation:** Learning how to properly assess the performance of our machine learning models.
+* **Advanced Topics:** As the course progresses, I'll delve into more advanced areas like tree-based methods, support vector machines, and unsupervised learning. 
 
-* The main idea behind Machine Learning.
-* The difference between predicting a number and sorting things into categories.
-* How to load and take a first look at data using code.
-* Making simple charts to see patterns in the data.
+**Course Objectives:**
 
-This is just the beginning of my Machine Learning journey. Stay tuned for more as we dive deeper! 🚀
+This course aims to help me:
+
+* Understand the machine learning process. 
+* Choose the right machine learning analysis. 
+* Apply machine learning methods to real-world situations.
+* Interpret the results of machine learning analyses to make informed decisions.
+
+I'll be using Python and libraries like Scikit-Learn, Keras, and TensorFlow. 
+
+Let's learn together! 🚀
